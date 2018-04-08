@@ -44,7 +44,7 @@ sudo apt-get install ros-kinetic-move-base -y
 sudo apt-get install ros-kinetic-move-base-msgs -y
 sudo apt-get install ros-kinetic-hector-slam -y
 sudo apt-get install ros-kinetic-gmapping -y
-sduo apt-get install ros-kinetic-dwa-local-planner -y
+sudo apt-get install ros-kinetic-dwa-local-planner -y
 sudo apt-get install ros-kinetic-robot-upstart -y
 sudo apt-get install ros-kinetic-ecl -y
 
