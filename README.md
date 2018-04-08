@@ -34,7 +34,7 @@ git clone https://github.com/yowlings/installPC.git
 
 使用电脑的无线网络连接到机器人的网络系统。
 
-> 网络名称：UXbot
+> 网络名称：xbot
 >
 > 无线网络密码：xbot1234
 
